@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(224, 255, 255, 0.3);
+}
+h1 {
+  text-align: center;
+}
+
+.page-links {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+.page-links a:link {
+  text-decoration: none;
+}
+.page-links a:visited {
+  color: black;
+}
+
+.croissant-photo-one {
+  display: block;
+  margin: 0 auto;
+}
