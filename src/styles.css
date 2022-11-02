@@ -11,7 +11,7 @@ h1 {
   justify-content: space-around;
 }
 .page-links a:link {
-  text-decoration: none;
+color: black;
 }
 .page-links a:visited {
   color: black;
